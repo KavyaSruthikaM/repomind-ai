@@ -1,0 +1,16 @@
+.DS_Store
+*.pyc
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+.env
+.env.local
+.next/
+node_modules/
+dist/
+build/
+backend/chroma_db/
+backend/repos/*
+!backend/repos/.gitkeep

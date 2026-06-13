@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-multipart
+httpx
+GitPython
+chromadb
+sentence-transformers
+tree-sitter
+tree-sitter-languages
+pydantic-settings
