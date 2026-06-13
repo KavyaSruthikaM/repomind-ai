@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RepoMind AI
 
 AI-powered codebase understanding platform with repository ingestion, structural parsing, semantic retrieval, and LLM chat.
@@ -78,3 +79,7 @@ Enable Email/Password auth in your Supabase project.
 - Backend: Render
 
 For deployment, set environment variables from `.env.example` in each platform dashboard.
+=======
+# repomind-ai
+AI-powered repository intelligence platform with RAG-based codebase chat, repository analysis, architecture visualization, and file intelligence using FastAPI, Next.js, ChromaDB, Sentence Transformers, and Ollama.
+>>>>>>> 3ac11954b8a924121513f239c1cd0651dd36cffd
